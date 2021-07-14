@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.main {
+    height: 200vh;
+    color: white;
+  }
+
+  .main.red {
+    background-color: red;
+  }
+
+  .main.blue {
+    background-color: blue;
+  }
+  
